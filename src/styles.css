@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 15%;
+}
+
+button {
+  margin-top: 40px;
+  width: 100px;
+  height: 30px;
+  background-color: lightskyblue;
+}
